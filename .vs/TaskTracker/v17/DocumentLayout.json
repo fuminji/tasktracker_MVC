@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|c:\\users\\akiir\\desktop\\vsstudio\\tasktracker\\tasktracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|c:\\users\\akiir\\desktop\\vsstudio\\tasktracker\\tasktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|c:\\users\\akiir\\desktop\\vsstudio\\tasktracker\\tasktracker\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|c:\\users\\akiir\\desktop\\vsstudio\\tasktracker\\tasktracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|c:\\users\\akiir\\desktop\\vsstudio\\tasktracker\\tasktracker\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{ADD91F47-20BA-4DFD-B27E-EC706BD5FB4C}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/MVCTASKCRUDDB/True/SqlTable/dbo.Task.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:11:57.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskTracker\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "TaskTracker\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:11:43.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:07:08.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:41:21.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Model1.edmx",
+              "RelativeDocumentMoniker": "TaskTracker\\Model1.edmx",
+              "ToolTip": "C:\\Users\\akiir\\Desktop\\VSSTUDIO\\TaskTracker\\TaskTracker\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "TaskTracker\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-13T13:35:59.124Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Task [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/MVCTASKCRUDDB/True/SqlTable/dbo.Task.sql",
+              "ToolTip": "dbo.Task [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-13T13:34:42.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

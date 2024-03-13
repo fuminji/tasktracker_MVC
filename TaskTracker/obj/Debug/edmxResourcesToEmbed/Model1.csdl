@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MVCTASKCRUDDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Taskid" />
+    </Key>
+    <Property Name="Taskid" Type="Int32" Nullable="false" />
+    <Property Name="TaskTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TaskDescription" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TaskDueDate" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="MVCTASKCRUDDBContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tasks" EntityType="Self.Task" />
+  </EntityContainer>
+</Schema>

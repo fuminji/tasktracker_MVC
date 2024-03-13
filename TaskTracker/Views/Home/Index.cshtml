@@ -1,0 +1,36 @@
+﻿@model IEnumerable<TaskTracker.Task>
+
+@{
+    ViewBag.Title = "Task Tracker App";
+}
+
+<div class="container" style="padding: 90px;">
+    <div class="container" style="display: flex; justify-content: end">
+        <button type="button" class="btn btn-primary" style="width: 100%;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0" />
+            </svg>
+            @Html.ActionLink("Create New Task", "Create", null, new { style = "color: white; font-weight: bold;" })
+        </button>
+    </div>
+    <div class="container d-flex mt-3 flex-wrap justify-content-center" style="gap: 18px;">
+        @foreach (var item in Model)
+        {
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.TaskTitle)</h5>
+                        <input class="form-check-input" style="color: green;" type="checkbox" value="">
+                    </div>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">@Html.DisplayFor(modelItem => item.TaskDueDate)</h6>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.TaskDescription)</p>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Taskid }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Taskid }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Taskid })
+                    
+                   
+                </div>
+            </div>
+        }
+    </div>
+</div>
